@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "1_Switch")(type "KiCad")(uri "/Users/quinie/Documents/Kicad Libs/QuiniesExtras/Switch")(options "")(descr ""))
+)
