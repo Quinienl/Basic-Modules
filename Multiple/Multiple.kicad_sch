@@ -148,6 +148,7 @@
 
   (no_connect (at 25.4 46.99) (uuid 18c5014e-2ec9-4aac-8a46-aa9dd7d21c55))
   (no_connect (at 25.4 83.82) (uuid 634e0c51-be1e-4221-9288-02d9f8913979))
+  (no_connect (at 25.4 73.66) (uuid ab98cdca-da90-4baa-ab77-cd15c4f7b5e0))
   (no_connect (at 25.4 57.15) (uuid cb320bf4-bb1d-4a9a-9eea-3d81244e0f85))
   (no_connect (at 25.4 104.14) (uuid e0349d72-20b6-4b54-b361-fa7f13c56ad2))
   (no_connect (at 25.4 93.98) (uuid e789ba2b-c048-4dcd-b488-9ef127854dd1))
